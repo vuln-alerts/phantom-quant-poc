@@ -100,3 +100,10 @@ but:
 
 "Is it structurally consistent?"
 
+---
+
+## Loom Demo
+
+Watch the 3-minute demo here:
+
+https://www.loom.com/share/2fef44eecdaf4c2eb6cd5dedc2599c07
